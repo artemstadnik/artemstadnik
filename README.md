@@ -14,7 +14,7 @@ I'm currently learning Node.js to complete my full-stack journey. The goal is to
 
 **Fun Facts:**
 
-- ⚽ Sports keep me balanced
-- 🎬 Movie buff (seriously, I watch too many)
-- 🎥 Create content on the side
-- 🎵 Music is always on when I'm coding
+-  Sports keep me balanced
+-  Movie buff (seriously, I watch too many)
+-  Create content on the side
+-  Music is always on when I'm coding
