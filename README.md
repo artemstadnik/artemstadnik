@@ -48,7 +48,7 @@ Full-featured e-commerce bookstore with real payment processing, authentication,
 
 **Stack:** React 19 · TypeScript · Tailwind CSS · Firebase · Stripe · React Query · GSAP · Zod
 
-[🌐 Live Demo](https://artemstadnik.github.io/books-catalog/) · [📦 Source Code](https://github.com/artemstadnik/books-catalog)
+[🌐 Live Demo](https://online-store-2026.github.io/books-catalog-frontend/) · [📦 Source Code](https://github.com/artemstadnik/books-catalog)
 
 ---
 
