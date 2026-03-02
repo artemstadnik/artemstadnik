@@ -5,20 +5,14 @@
   Building production-ready web apps from database to UI
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/artem-stadnik/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:artem.stadnik.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://t.me/stadnika">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://github.com/artemstadnik">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/artem-stadnik/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artem.stadnik.contact@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stadnika)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artemstadnik)
+
+</div>
 
 ---
 
@@ -42,7 +36,7 @@ Currently expanding into **Next.js** (SSR, App Router, Server Actions) and deepe
 
 ### Featured Projects
 
-#### [📚 Books Catalog — Online Bookstore](https://github.com/online-store-2026/books-catalog-frontend)
+#### [📚 Books Catalog — Online Bookstore](https://github.com/artemstadnik/books-catalog)
 
 Full-featured e-commerce bookstore with real payment processing, authentication, and internationalization — not a tutorial clone.
 
@@ -54,7 +48,7 @@ Full-featured e-commerce bookstore with real payment processing, authentication,
 
 **Stack:** React 19 · TypeScript · Tailwind CSS · Firebase · Stripe · React Query · GSAP · Zod
 
-[🌐 Live Demo](https://online-store-2026.github.io/books-catalog-frontend/) · [📦 Source Code](https://github.com/online-store-2026/books-catalog-frontend)
+[🌐 Live Demo](https://artemstadnik.github.io/books-catalog/) · [📦 Source Code](https://github.com/artemstadnik/books-catalog)
 
 ---
 
