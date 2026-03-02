@@ -8,13 +8,13 @@
 <p align="center">
   <a href="https://linkedin.com/in/artem-stadnik/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
+  </a>
   <a href="mailto:artem.stadnik.contact@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>&nbsp;
+  </a>
   <a href="https://t.me/stadnika">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>&nbsp;
+  </a>
   <a href="https://github.com/artemstadnik">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -42,7 +42,7 @@ Currently expanding into **Next.js** (SSR, App Router, Server Actions) and deepe
 
 ### Featured Projects
 
-#### [📚 Books Catalog — Online Bookstore](https://online-store-2026.github.io/books-catalog-frontend/)
+#### [📚 Books Catalog — Online Bookstore](https://github.com/online-store-2026/books-catalog-frontend)
 
 Full-featured e-commerce bookstore with real payment processing, authentication, and internationalization — not a tutorial clone.
 
