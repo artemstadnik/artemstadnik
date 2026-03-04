@@ -26,7 +26,7 @@ Currently expanding into **Next.js** (SSR, App Router, Server Actions) and deepe
 
 ### Tech Stack
 
-**Frontend:** React · Next.js · TypeScript · Tailwind CSS · GSAP · HTML · CSS
+**Frontend:** React · TypeScript · Tailwind CSS · GSAP · HTML · CSS
 **Backend:** Node.js · Express · Firebase · Cloud Functions
 **Data:** SQL · Firestore
 **Integrations:** Stripe · LiqPay · i18next · React Query · Zod
