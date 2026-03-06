@@ -27,7 +27,7 @@ Currently expanding into **Next.js** (SSR, App Router, Server Actions) and deepe
 ### Tech Stack
 
 **Frontend:** React · TypeScript · Tailwind CSS · GSAP · HTML · CSS
-**Backend:** Node.js · Express · Firebase · Cloud Functions
+**Backend:** Node.js · Express · Socket.IO · Firebase · Cloud Functions
 **Data:** SQL · Firestore
 **Integrations:** Stripe · LiqPay · i18next · React Query · Zod
 **Tools:** Git · Vite · ESLint · Prettier · Husky · GitHub Actions · CI/CD
@@ -52,11 +52,28 @@ Full-featured e-commerce bookstore with real payment processing, authentication,
 
 ---
 
+#### [💬 Node Chat — Real-Time Chat App](https://github.com/artemstadnik/node_chat-app)
+
+Multi-room real-time chat application with instant messaging, room management, and a Discord-inspired dark UI. Full-stack WebSocket architecture with no REST endpoints — everything flows through Socket.IO events.
+
+- **Real-time** — Instant messaging via Socket.IO with room-scoped broadcasts
+- **Room management** — Create, rename, delete, and switch between rooms
+- **Live sync** — All connected clients stay in sync on room and message updates
+- **Deployment** — Separate client (Static Site) and server (Web Service) on Render
+
+**Stack:** React 18 · Node.js · Express · Socket.IO · Vite · SCSS
+
+[🌐 Live Demo](https://node-chat-app-1-xhfk.onrender.com) · [📦 Source Code](https://github.com/artemstadnik/node_chat-app)
+
+---
+
 #### [✅ Todo App — Task Manager](https://github.com/artemstadnik/todo-app)
 
 A clean, functional task manager with REST API integration. Built to actually feel good to use.
 
 **Stack:** React · TypeScript · REST API
+
+[🌐 Live Demo](https://artemstadnik.github.io/todo-app/) · [📦 Source Code](https://github.com/artemstadnik/todo-app)
 
 ---
 
@@ -65,6 +82,8 @@ A clean, functional task manager with REST API integration. Built to actually fe
 Pixel-perfect responsive landing page. Pure HTML & CSS — proof that strong fundamentals build solid results.
 
 **Stack:** HTML · CSS
+
+[🌐 Live Demo](https://artemstadnik.github.io/mybike-landing/) · [📦 Source Code](https://github.com/artemstadnik/mybike-landing)
 
 ---
 
